@@ -1,0 +1,298 @@
+[33mcommit ff66c8b9317074baeacecacc406d590d5b6ed30f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 15 12:52:41 2021 +0530
+
+    added closing of small menu when link is clicked
+
+[33mcommit a2fcf34bedf86935b73f4249a694ee72766a89c8[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 15 11:48:57 2021 +0530
+
+    updated readme
+
+[33mcommit ced41aa88d5b393ae4198da41923b8ebf6df1c26[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 15 11:46:05 2021 +0530
+
+    added hover effect for hero social icons
+
+[33mcommit edb96b828bc9af7638b206a8cb8800842a3bcde3[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Tue Sep 14 18:16:03 2021 +0530
+
+    added close icon to close small menu
+
+[33mcommit a6effae8e7a157bbe67dddb3e5a8764d8c6590f4[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Tue Sep 14 12:11:17 2021 +0530
+
+    Added hover effect for button, nav links and logo container
+
+[33mcommit 191b3fc4e29760ade6782380641e12549ee08e38[m
+Merge: d888b7b f026e3d
+Author: Ram Maheshwari <34917255+rammcodes@users.noreply.github.com>
+Date:   Sun Sep 12 23:00:59 2021 +0530
+
+    Merge pull request #9 from crazyuploader/patch-1
+    
+    [Fixed Link] README.md
+
+[33mcommit f026e3dea32e1a486cc62fadd8f2e60c9519ba28[m
+Author: Jugal Kishore <me@devjugal.com>
+Date:   Fri Sep 10 11:51:10 2021 +0530
+
+    Update README.md
+
+[33mcommit d888b7b1acb400a87b5fff61c03e92b2301e62de[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 8 23:00:20 2021 +0530
+
+    updated readme
+
+[33mcommit f851a1522bdc98cdbe1145a2d2f5e8d0a5fe49fb[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 8 22:58:19 2021 +0530
+
+    updated readme
+
+[33mcommit 3bd4c2f6afb37889a1649ede5bbab3b24ce79fc7[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 8 22:57:03 2021 +0530
+
+    updated readme
+
+[33mcommit 46036199874fab3c0dc2ea1368a2409004e2419f[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 8 22:52:58 2021 +0530
+
+    updated readme
+
+[33mcommit 2f56bd86fb25eb0a0ac495bc30faf5777156cb3c[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Tue Sep 7 22:50:50 2021 +0530
+
+    updated footer
+
+[33mcommit 6712790139b181ef92d6f2b5661d2b9c0030d0dc[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Tue Sep 7 22:44:18 2021 +0530
+
+    updated footer
+
+[33mcommit 04c7c92555dcf7a44dab27f97b4f80f4e8ae6c33[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Sun Sep 5 21:40:01 2021 +0530
+
+    updated readme
+
+[33mcommit 52732836b6900d34075ed2ff6301e6b558ca8307[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Sun Sep 5 21:10:57 2021 +0530
+
+    updated readme
+
+[33mcommit 4caf0c2785ae1fc7152d0741e9e45f24be1e82a1[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Thu Sep 2 23:35:51 2021 +0530
+
+    updated readme
+
+[33mcommit e3ae574ba3c88250c5298098abe9a2959d54038b[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Thu Sep 2 23:09:37 2021 +0530
+
+    updated readme
+
+[33mcommit de260693781178afe360bd7275f984c50ecaa2d2[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Thu Sep 2 23:07:56 2021 +0530
+
+    updated readme
+
+[33mcommit 0ca7f1a27648cc4dfa67ab4f1c54e6a4ca0d009d[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Thu Sep 2 18:28:09 2021 +0530
+
+    updated readme
+
+[33mcommit a62cd3ad975e115dd7738fc83ace3ad3142a3471[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Thu Sep 2 16:45:45 2021 +0530
+
+    updated readme
+
+[33mcommit 385b0febe553c70a8971545e55bf2388b913f702[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Thu Sep 2 16:44:56 2021 +0530
+
+    updated readme
+
+[33mcommit 8742ea858b99fc579a34f939eaf6f507bd5587ca[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Thu Sep 2 16:42:34 2021 +0530
+
+    updated readme
+
+[33mcommit d4d4f94d6d7a6df61e48e4e21fa5142290dd447e[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 1 22:43:14 2021 +0530
+
+    updated readme
+
+[33mcommit fcd3752bc2f3c61b934c3f77f8d55834e490571c[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 1 22:42:05 2021 +0530
+
+    updated readme
+
+[33mcommit 9847dbdfe522f273ad7cbea715dd3d0a1a346dba[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 1 22:31:29 2021 +0530
+
+    updated readme
+
+[33mcommit fb28904d1c2bc17981125235c215696241df6255[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 1 22:30:22 2021 +0530
+
+    updated readme
+
+[33mcommit babc25a4b563110054a5631969365709002e7911[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 1 22:26:43 2021 +0530
+
+    updated readme
+
+[33mcommit a709739aca48845cc8bbc925b13136881d87d51a[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 1 15:45:07 2021 +0530
+
+    updated readme
+
+[33mcommit b87cc1c03818a3bda3a3d54a5f926b01a0cecb03[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 1 14:34:28 2021 +0530
+
+    updated readme
+
+[33mcommit 4c74e5ac9a3e56b44a3672f37ad3ca3c8604faf8[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 1 14:33:02 2021 +0530
+
+    updated readme
+
+[33mcommit 127af8a5cc6512c17d6c4118a4321a91b8fcba51[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Wed Sep 1 14:06:00 2021 +0530
+
+    updated readme
+
+[33mcommit fc445ca6e229a511c9f19830cadb449ac3502d95[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Tue Aug 31 23:36:28 2021 +0530
+
+    updated readme
+
+[33mcommit 3b48bfc2de8a16d7589707dc54e61b0acec2bd67[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Tue Aug 31 22:47:53 2021 +0530
+
+    updated readme
+
+[33mcommit fd1034fe5f346e1bf80f8ae040ad23fe9d3c6647[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Tue Aug 31 18:09:32 2021 +0530
+
+    updated readme
+
+[33mcommit ad01053c7da4ee8b134ea37633b7e29efe12aa1e[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Tue Aug 31 18:08:00 2021 +0530
+
+    updated readme
+
+[33mcommit 40e15789285f30f587cfc28d745b3deb9dc9fe34[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Tue Aug 31 17:45:10 2021 +0530
+
+    updated readme
+
+[33mcommit 85882d8cbeb2220958e520ca803a0ad13d56bcb9[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Mon Aug 30 18:14:41 2021 +0530
+
+    updated readme
+
+[33mcommit 9093751ac044e08949cd528f214ab560282ee2bf[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Mon Aug 30 16:08:11 2021 +0530
+
+    updated readme
+
+[33mcommit e6b2cf74e77d9dcafc0c410f7da03b90175ed54d[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Mon Aug 30 15:30:07 2021 +0530
+
+    updated readme
+
+[33mcommit cefbf5bf9e9abfc780406c5cbf5479ced8632b1b[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Mon Aug 30 14:56:16 2021 +0530
+
+    updated readme
+
+[33mcommit 500e64a7997dad02f9a0876d68e24507952e79ae[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Mon Aug 30 14:40:41 2021 +0530
+
+    updated readme
+
+[33mcommit 026ee17a9d9c32de3312fefa20c937b9d5c4fe37[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Mon Aug 30 14:39:41 2021 +0530
+
+    updated readme
+
+[33mcommit cde094e9eba52e57abd5cdff7578a99a054c5262[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Mon Aug 30 14:38:11 2021 +0530
+
+    updated readme
+
+[33mcommit 8580da6c34cab49430c79063e61eb4e8ade5b9a8[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Sat Aug 28 22:43:45 2021 +0530
+
+    updated readme
+
+[33mcommit ec1ef0aab1f288dd59e349cf06a7d537d58e50ab[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Sat Aug 28 22:40:28 2021 +0530
+
+    updated readme
+
+[33mcommit 50ad3bf393d064041a4fed2b0159222cf075abc9[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Sat Aug 28 22:27:06 2021 +0530
+
+    updated readme
+
+[33mcommit 62546dcebbac9bf4bf76fa6c97ae0f8005e266a8[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Sat Aug 28 22:16:48 2021 +0530
+
+    updated readme
+
+[33mcommit 8c85a237c71dbfe50647a5db02d3cba6ac905f7e[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Sat Aug 28 21:40:00 2021 +0530
+
+    added target blank
+
+[33mcommit 1983214d0b38403a1fec4c38c4afd95a0982a6fc[m
+Author: Ram Maheshwari <ram991011@gmail.com>
+Date:   Sat Aug 28 21:06:00 2021 +0530
+
+    updated readme
+
+[33mcommit 080fb71ac95a677c53263cb
